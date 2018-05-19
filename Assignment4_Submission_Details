@@ -1,0 +1,75 @@
+Course: DGMD E-20 Fall 2015
+Name: Ka Man Chan
+Assignment: Assignment 4
+    
+My week 12-13 jQuery Mobile assignment is located at this/these URL(s): 
+	- URL: http://kamanc.siteground.net/index.html
+
+	- Grid system is located on this/these page(s): 
+		home - http://kamanc.siteground.net/#home
+		about - http://kamanc.siteground.net/#about
+		contact - http://kamanc.siteground.net/#contact
+		
+		HTML line #: 31, 113, 151
+		CSS line #: 61-71 (media query)
+
+	- Button and/or icon is located here: 
+		home - http://kamanc.siteground.net/#home
+
+		HTML line #: 48, 68, 88
+		
+	- My two widgets are:  
+		1.	popup widget 
+			It is located on these pages: home - http://kamanc.siteground.net/#home
+			HTML line #: 37-45
+
+		2.	controlgroup widget  
+			It is located on these pages: contact - http://kamanc.siteground.net/#contact
+			HTML line #: 179-185
+
+	- My custom theme is applied on:
+		home - http://kamanc.siteground.net/#home
+		about - http://kamanc.siteground.net/#about
+		contact - http://kamanc.siteground.net/#contact
+
+		HTML line #: 19, 100, 138
+
+	- The form is located here: 
+		contact - http://kamanc.siteground.net/#contact
+
+		The modifications I used are:
+	 	1.	horizontal display
+	 		HTML line #: 179-185
+
+	 	2. 	mini version 
+			HTML line #: 186-197
+
+	- The jQuery Mobile events I used on my site include: 
+		1.	swiperight
+		2.	swipeleft 
+
+		Both jQuery Mobile events are in JS line #: 16-42
+
+
+My week 14 jQuery UI assignment is located at this/these URL(s): 
+	- URL: http://kamanc.siteground.net/KaManTravel_food.html
+
+	- My custom theme is applied on this page: (Customized Sunny theme and changed font size, corner radius & header color)
+		http://kamanc.siteground.net/KaManTravel_food.html
+		HTML line #: 11, 79, 80
+
+	- My interaction is: sortable 
+		Applied on this page: http://kamanc.siteground.net/KaManTravel_food.html 
+		HTML line #: 39-46
+		JS line #: 4-10
+
+	- My widget is: tabs 
+		Applied on this page: http://kamanc.siteground.net/KaManTravel_food.html
+		HTML line #: 50-68
+		JS line #: 13-20
+	
+	- My effect is: toggleclass 
+		Applied on this page: http://kamanc.siteground.net/KaManTravel_food.html
+		HTML line #: 40-45 (original class is "foodPhoto" and the toggle class is "smallFoodPhoto")
+		CSS line #: 140-148
+		JS line #: 23-43

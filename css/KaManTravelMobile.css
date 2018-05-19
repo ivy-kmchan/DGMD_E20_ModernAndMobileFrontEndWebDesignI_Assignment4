@@ -1,0 +1,74 @@
+/* KaManTravelMobile.css is for KaMan's Travel mobile website*/
+h1{
+	padding-left: 3%;
+}
+
+.ui-bar{
+	padding-left: 30%;
+	padding-right: 30%;
+}
+
+.ui-grid-b img,
+.ui-grid-b p {
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	max-width: 100%;
+}
+
+#home .ui-grid-b .ui-block-a,
+#home .ui-grid-b .ui-block-b,
+#home .ui-grid-b .ui-block-c
+{
+	width: 33.33%;
+}
+
+#about h2{
+	padding-left: 3%;
+}
+
+#about .ui-grid-a .ui-block-a,
+#about .ui-grid-a .ui-block-b {
+	width: 50%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+#contact .ui-grid-a .ui-block-a,
+#contact .ui-grid-a .ui-block-b {
+	width: 50%;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+
+button{
+	float: right;
+}
+
+#contact .ui-grid-a .ui-block-b{
+	overflow: auto;
+}
+
+
+
+.nameError {
+	border-color: red;
+	color: red;
+}
+
+
+
+@media all and (max-width: 700px) {
+	#home .ui-grid-b .ui-block-a,
+	#home .ui-grid-b .ui-block-b,
+	#home .ui-grid-b .ui-block-c,
+	#about .ui-grid-a .ui-block-a,
+	#about .ui-grid-a .ui-block-b,
+	#contact .ui-grid-a .ui-block-a,
+	#contact .ui-grid-a .ui-block-b {
+		width: 100%;
+	}
+}
+
+
+
